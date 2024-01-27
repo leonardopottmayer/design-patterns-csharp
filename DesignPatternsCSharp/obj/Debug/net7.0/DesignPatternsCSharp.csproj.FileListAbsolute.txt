@@ -1,0 +1,4 @@
+S:\API\DesignPatternsCSharp\DesignPatternsCSharp\obj\Debug\net7.0\DesignPatternsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+S:\API\DesignPatternsCSharp\DesignPatternsCSharp\obj\Debug\net7.0\DesignPatternsCSharp.AssemblyInfoInputs.cache
+S:\API\DesignPatternsCSharp\DesignPatternsCSharp\obj\Debug\net7.0\DesignPatternsCSharp.AssemblyInfo.cs
+S:\API\DesignPatternsCSharp\DesignPatternsCSharp\obj\Debug\net7.0\DesignPatternsCSharp.csproj.CoreCompileInputs.cache
